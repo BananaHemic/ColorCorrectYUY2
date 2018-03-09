@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorCorrectYUY2", "ColorCorrectYUY2\ColorCorrectYUY2.vcxproj", "{B190DDF2-BE85-43D3-A28B-046C6BF9F297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Debug|x64.ActiveCfg = Debug|x64
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Debug|x64.Build.0 = Debug|x64
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Debug|x86.ActiveCfg = Debug|Win32
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Debug|x86.Build.0 = Debug|Win32
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Release|x64.ActiveCfg = Release|x64
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Release|x64.Build.0 = Release|x64
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Release|x86.ActiveCfg = Release|Win32
+		{B190DDF2-BE85-43D3-A28B-046C6BF9F297}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951E4CB8-3F27-4CD9-A206-679F696A0627}
+	EndGlobalSection
+EndGlobal
